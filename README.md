@@ -101,7 +101,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:3
   Build a C program to demonstrate the use of different data types such as int, float, double, and char, and display their values using printf().
-# Date : 
+# Date : 18-11-2025
 # Aim:
   To build a C program that declares variables of various data types—integer, float, double, and character—initializes them, and prints their values on the screen.
 # Algorithm:
